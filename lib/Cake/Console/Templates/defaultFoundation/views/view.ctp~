@@ -1,18 +1,19 @@
 <?php
 /**
- * Foundation template view for CakePHP(tm)
  *
- * This file is application-wide helper file. You can put all
- * application-wide helper-related methods here.
  *
- * @author        Aissar Murad - http://facebook.com/aissarmurad
- * @copyright     There is no copyright, but I would like to earn some energy drinks!
- * @license       http://www.opensource.org/licenses/mit-license.php MIT License
- * @link          https://github.com/aissarmurad/CakePHP-Foundation-Template
+ * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
+ * Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
+ *
+ * Licensed under The MIT License
+ * For full copyright and license information, please see the LICENSE.txt
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @copyright     Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
+ * @link          http://cakephp.org CakePHP(tm) Project
  * @package       Cake.Console.Templates.default.views
- * @since         CakePHP(tm) v 2.4.3
- * @version       1.0.0
- * @todo          Need improvements in CSS to enhance performance
+ * @since         CakePHP(tm) v 1.2.0.5234
+ * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 ?>
 <div class="row">
