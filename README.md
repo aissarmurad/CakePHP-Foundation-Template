@@ -25,23 +25,26 @@ Installation
 
 1. Download it!
     
-    wget https://github.com/aissarmurad/CakePHP-Foundation-Template/archive/master.zip
+    $ wget https://github.com/aissarmurad/CakePHP-Foundation-Template/archive/master.zip
+
 
 2. Unzip the files
 
-    unzip -a master.zip
+    $ unzip -a master.zip
+
 
 3. Move the contents to /path/to/cakephp/
 
-    cd CakePHP-Foundation-Template-master/
-    mv lib/ /path/to/cakePHP/
+    $ cd CakePHP-Foundation-Template-master/
+    $ mv lib/ /path/to/cakePHP/
+
 
 4. Bake views in Interactive Mode
 
 Usage
 -----
 
-    cake bake project --skel Console/Templates/skelFoundation
+    $ cake bake project --skel Console/Templates/skelFoundation
 
  See more info in [CakePHP Book](http://book.cakephp.org/2.0/en/console-and-shells/code-generation-with-bake.html)
 
