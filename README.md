@@ -9,7 +9,7 @@ Contributing
 Want to contribute? Great!
 
 1. Download it! Test it!
-2. Send bug [Issues], Feature [Issues], or other [Issues]
+2. Send bug [Issues](https://github.com/aissarmurad/CakePHP-Foundation-Template/issues), Feature [Issues](https://github.com/aissarmurad/CakePHP-Foundation-Template/issues), or other [Issues](https://github.com/aissarmurad/CakePHP-Foundation-Template/issues)
 
 Or, more realistically:
 
@@ -17,7 +17,7 @@ Or, more realistically:
 2. Create a branch (`git checkout -b my_feature`)
 3. Commit your changes (`git commit -am "Added Feature"`)
 4. Push to the branch (`git push origin my_feature`)
-5. Open a [Pull Request][1]
+5. Open a [Pull Request](https://github.com/aissarmurad/CakePHP-Foundation-Template/pulls)
 6. Enjoy it! And good bake! ;D
 
 Installation
