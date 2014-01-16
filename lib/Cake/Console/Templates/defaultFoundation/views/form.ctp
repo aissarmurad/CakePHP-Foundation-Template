@@ -64,8 +64,8 @@
 ?>
 	</fieldset>
 <?php
-        echo "<?php echo \$this->Form->button(__('Reset',true), array('type'=>'reset','class'=>'button alert left')); ?>\n";
-        echo "<?php echo \$this->Form->submit(__('Submit',true), array('class'=>'button large success right')); ?>\n";
+        echo "<?php echo \$this->Form->button(__('Reset',true), array('type'=>'reset','class'=>'button radius alert left')); ?>\n";
+        echo "<?php echo \$this->Form->submit(__('Submit',true), array('class'=>'button radius success')); ?>\n";
         echo "<?php echo \$this->Form->end(); ?>\n";
 ?>
 </div>
