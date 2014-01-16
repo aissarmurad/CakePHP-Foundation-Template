@@ -41,10 +41,22 @@ Installation
 
 4. Bake views in Interactive Mode
 
+    `$ cake bake view`
+
+5. Enable layout in AppController
+
+    `class AppController extends Controller {
+         ...
+         public function beforeFilter() {
+             $this->layout = 'foundation';
+         }
+     }`
+
+
 Usage
 -----
 
-    `$ cake bake project --skel Console/Templates/skelFoundation`
+    $ cake bake project --skel Console/Templates/skelFoundation
 
  See more info in [CakePHP Book](http://book.cakephp.org/2.0/en/console-and-shells/code-generation-with-bake.html)
 
