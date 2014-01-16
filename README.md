@@ -45,12 +45,14 @@ Installation
 
 5. Enable layout in AppController
 
-    `class AppController extends Controller {
+    ```
+    class AppController extends Controller {
          ...
          public function beforeFilter() {
              $this->layout = 'foundation';
          }
-     }`
+     }
+     ```
 
 
 Usage
